@@ -6,20 +6,20 @@ My first full-stack React app! The front end is built in a combination of React 
 
 <h2>Key Features</h2>
 
-**1. Topic Post
-**
+1. Topic Post
+
 Topics can be created and posted at the top of the website.
 
-**2. Topic Delete
-**
+2. Topic Delete
+
 Topics can be permanently deleted.
 
-**3. Up vote
-**
+3. Up vote
+
 Topics can be upvoted, with the 'score' updated on screen.
 
-**4. Down vote
-**
+4. Down vote
+
 Topics can be downvoted. 
 
 Topics are automatically sorted by number of votes.
