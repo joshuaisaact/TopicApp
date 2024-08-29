@@ -8,11 +8,11 @@ My first full-stack React app! The front end is built in a combination of React 
 
 1. Topic Post
 
-Visitors can post a new topic, that immediately appears on screen.
+Topics can be created and posted at the top of the website.
 
 2. Topic Delete
 
-Visitors can permanently delete topics. 
+Topics can be permanently deleted.
 
 3. Up vote
 
